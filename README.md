@@ -1,1 +1,3 @@
 # Airline-Query-Analysis-and-Optimization
+Project Name: Airline Query Analysis and Optimization
+The Airline Query Analysis and Optimization project delves into analyzing various aspects of airline operations, encompassing passenger data, flight schedules, aircraft information, and cancellation/refund scenarios. Through a series of SQL queries, the project extracts meaningful insights such as airport codes, seat counts, flight counts, aircraft models, cancellation statistics, and more. These insights can aid in optimizing flight operations, improving customer service, and making data-driven decisions for better efficiency and customer satisfaction.
